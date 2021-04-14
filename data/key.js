@@ -2684,7 +2684,6 @@ var subjects =
  "PA" : {
     1  : ["Jonathan 'Gabe' Gabriel","PA/1.jpg"],
     2  : ["Tycho Brahe","PA/2.jpg"],
-    3  : ["Anne Claire 'Annarchy' Brahe","PA/3.jpg"],
     "N" : 2,
     "name" : "Penny Arcade"
  },
