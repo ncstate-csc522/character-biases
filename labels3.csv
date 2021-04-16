@@ -1,0 +1,401 @@
+,characterName,imageFile,race,gender
+0,Emma Nelson,DGI/6.jpg,U,F
+1,Frank Reynolds,ASP/5.jpg,W,M
+2,Caroline Forbes,VD/4.jpg,W,F
+3,Adam Sackler,G/5.jpg,N,M
+4,Zuko,ALA/2.jpg,A,M
+5,Derek Vinyard,AHX/2.jpg,W,M
+6,Janine Lindo,HT/3.jpg,W,F
+7,Jorah Mormont,GOT/8.jpg,W,M
+8,Becca,SB/5.jpg,W,F
+9,Nick Stokes,CSI/1.jpg,W,M
+10,Basher Tarr,O11/4.jpg,B,M
+11,Buster Bluth,AD/6.jpg,W,M
+12,Alan Shore,BL/1.jpg,W,M
+13,Beast,BATB/6.jpg,U,M
+14,Will Turner,PC/4.jpg,H,M
+15,Joan Watson,ELM/2.jpg,W,F
+16,Man in Black,WSW/8.jpg,W,M
+17,Kira Nerys,DS9/8.jpg,W,F
+18,James Gordon,DK/4.jpg,W,M
+19,Leslie Knope,PR/1.jpg,W,F
+20,Seeley Booth,B/2.jpg,W,M
+21,Abby Sciuto,NCIS/3.jpg,W,F
+22,Nick Dunne,GONEG/1.jpg,W,M
+23,Ben Chang,C/9.jpg,A,M
+24,Liberty Van Zandt,DGI/10.jpg,B,F
+25,Zapp Brannigan,FUTR/8.jpg,W,M
+26,Shiv Roy,SUC/3.jpg,W,F
+27,Bert Cooper,MM/12.jpg,W,M
+28,Jay Gatsby,GG/1.jpg,W,M
+29,Cady Heron,MG/1.jpg,W,F
+30,Mr. Potato Head,TS/3.jpg,U,M
+31,Jenna Maroney,R30/6.jpg,W,F
+32,Eve Polastri,KE/2.jpg,A,F
+33,Jessica Pearson,SUI/6.jpg,U,F
+34,Nicky Nichols,ONB/7.jpg,W,F
+35,Peter Burke,WC/2.jpg,W,M
+36,Henry Mills,OUT/3.jpg,W,M
+37,Michel Gerard,GILG/5.jpg,B,M
+38,Rusty Ryan,O11/2.jpg,W,M
+39,Mr. William Collins,PP/3.jpg,W,M
+40,Harry Morgan,D/7.jpg,W,M
+41,Sirius Black,HP/30.jpg,W,M
+42,Schmidt,NG/3.jpg,W,M
+43,Charlotte Doppler,DARK/2.jpg,W,F
+44,Turanga Leela,FUTR/2.jpg,U,F
+45,Jian-Yang,SV/10.jpg,A,M
+46,Greg Sanders,CSI/2.jpg,W,M
+47,David Mills,S7/1.jpg,W,M
+48,Hobbes,CH/2.jpg,U,U
+49,Elizabeth Burke,WC/4.jpg,W,F
+50,Goh Peik Lin,CRA/4.jpg,A,F
+51,Nathan Miller,T100/9.jpg,H,M
+52,Dr. Claire Browne,TGD/2.jpg,B,F
+53,Lucas Davidowicz,CAD/2.jpg,W,M
+54,Dr. Chan Kaifang,SPF/6.jpg,A,M
+55,Winn Schott,SG/6.jpg,W,M
+56,Summer Smith,RM/3.jpg,U,F
+57,Marsellus Wallace,PF/5.jpg,B,M
+58,Mia Toretto,FF/4.jpg,U,F
+59,Lau,DK/9.jpg,A,M
+60,Lex Luthor,SMV/4.jpg,W,M
+61,Nancy Thompson,NES/1.jpg,U,F
+62,Linda Martin,LU/6.jpg,W,F
+63,Lucy Moran,TP/14.jpg,W,F
+64,Mystique,XM/4.jpg,U,F
+65,Dan Espinoza,LU/3.jpg,W,M
+66,Molly Davidson,BKSM/1.jpg,W,F
+67,Nurse Mildred Ratched,OFOCN/2.jpg,U,F
+68,Amy Santiago,B99/4.jpg,W,F
+69,Margaret 'Hot Lips' Houlihan,MASH/2.jpg,W,F
+70,Emmett Cullen,T/8.jpg,W,M
+71,John B,OB/1.jpg,W,M
+72,Ada Shelby,PKB/4.jpg,W,F
+73,Daisy Buchanan,GG/3.jpg,W,F
+74,Connor Walsh,HGAWM/3.jpg,W,M
+75,Ian Duncan,C/10.jpg,W,M
+76,John Crichton,FAR/1.jpg,W,M
+77,Jenny Curran,FG/2.jpg,W,F
+78,Gabrielle Solis,DH/4.jpg,W,F
+79,Vanya Hargreeves,UA/1.jpg,W,F
+80,Colin Sullivan,TDPT/2.jpg,W,F
+81,Cheryl Tunt,ARCH/4.jpg,U,F
+82,Holden McCrea,CITW/5.jpg,H,M
+83,Denver,MONH/6.jpg,U,M
+84,Audrey Horne,TP/6.jpg,W,F
+85,Mia Wallace,PF/3.jpg,W,F
+86,Odo,DS9/2.jpg,W,M
+87,Kasidy Yates,DS9/15.jpg,B,F
+88,Stan Marsh,SP/1.jpg,U,M
+89,Dr. Gregory House,H/1.jpg,W,M
+90,Nick Miller,NG/2.jpg,W,M
+91,David Phillips,CSI/6.jpg,W,M
+92,Frank Costello,TDPT/3.jpg,W,M
+93,Chuck McGill,BCS/6.jpg,W,M
+94,Sam Winchester,SU/1.jpg,W,M
+95,Kevin Rayburn,BLL/3.jpg,W,M
+96,George Oscar 'Gob' Bluth,AD/3.jpg,W,M
+97,Jake Harper,THM/3.jpg,W,M
+98,George Wickham,PP/4.jpg,W,M
+99,Cedric Daniels,TW/1.jpg,B,M
+100,Rose Armitage,GO/2.jpg,W,F
+101,Rebecca Pearson,TIU/2.jpg,W,F
+102,Kim Wexler,BCS/3.jpg,W,F
+103,Steve Brady,SC/6.jpg,W,M
+104,Neo,M/1.jpg,W,M
+105,Seth,SB/1.jpg,W,M
+106,Luke Dunphy,MF/7.jpg,W,M
+107,Manny Santos,DGI/7.jpg,H,F
+108,Jack Shephard,L/3.jpg,W,M
+109,Betty Cooper,RD/2.jpg,W,F
+110,Dennis Nedry,JP/6.jpg,W,M
+111,Rarity,MLP/3.jpg,U,U
+112,Fleur Delacour,HP/14.jpg,W,F
+113,Elliot Alderson,MR/1.jpg,W,M
+114,Debbie Gallagher,SHL/6.jpg,W,F
+115,Silvio Dante,SOP/6.jpg,W,M
+116,Grace Van Pelt,MNT/5.jpg,W,F
+117,Anita 'Needy' Lesnicki,JB/2.jpg,W,F
+118,Annie January,TB/4.jpg,W,F
+119,The Tin Man,WO/4.jpg,U,U
+120,Cary Agos,TGW/2.jpg,W,M
+121,Smash Williams,FNL/3.jpg,B,M
+122,Billy Butcher,TB/1.jpg,W,M
+123,Meredith Palmer,TO/10.jpg,W,F
+124,Jo March,LW/1.jpg,W,F
+125,Damian Leigh,MG/6.jpg,W,M
+126,Bruce Wayne,DK/1.jpg,W,M
+127,Thomas Barrow,DA/11.jpg,W,M
+128,Leo Fitz,AoS/5.jpg,U,M
+129,Jadzia Dax,DS9/1.jpg,W,F
+130,Granny Lucas,OUT/10.jpg,W,F
+131,Josh Chan,CXG/3.jpg,A,M
+132,Logan Huntzberger,GILG/13.jpg,W,M
+133,Frank Delfino,HGAWM/6.jpg,W,M
+134,Janis Ian,MG/5.jpg,W,F
+135,Angela Montenegro,B/3.jpg,W,F
+136,Thor,MCU/6.jpg,W,M
+137,Bonnie Winterbottom,HGAWM/7.jpg,W,F
+138,Jane Bennet,PP/8.jpg,W,F
+139,Riley Blue,S8/4.jpg,W,F
+140,Alan,HO/3.jpg,W,M
+141,D'Angelo Barksdale,TW/24.jpg,B,M
+142,Lisa Simpson,S/4.jpg,U,F
+143,Aang,ALA/1.jpg,U,M
+144,Max Mayfield,ST/12.jpg,W,F
+145,Louis Litt,SUI/2.jpg,W,M
+146,JJ,OB/5.jpg,W,M
+147,Edna Krabappel,S/12.jpg,U,F
+148,Carol Peletier,WD/9.jpg,W,F
+149,Severus Snape,HP/7.jpg,W,M
+150,The Wicked Witch of the West,WO/6.jpg,U,U
+151,Meredith Grey,GA/1.jpg,W,F
+152,Wyatt Langmore,O/10.jpg,W,M
+153,Rubeus Hagrid,HP/4.jpg,W,M
+154,Kyle Broflovski,SP/2.jpg,U,F
+155,Amy Wong,FUTR/5.jpg,U,F
+156,Dr. Wendy Carr,MH/3.jpg,W,F
+157,Dominique DiPierro,MR/6.jpg,W,F
+158,Alfred Pennyworth,DK/2.jpg,W,M
+159,Tom Wambsgans,SUC/8.jpg,W,M
+160,Barney Gumble,S/14.jpg,U,M
+161,Dr. Ellie Sattler,JP/2.jpg,W,F
+162,Joe Cruz ,CF/4.jpg,U,M
+163,Dr. Neil Melendez,TGD/5.jpg,W,M
+164,Dr. Marcus Brody,RLA/6.jpg,W,M
+165,Principal Vernon,BC/6.jpg,W,M
+166,Leslie Winkle,BBT/6.jpg,W,F
+167,Kelly Erin Hannon,TO/14.jpg,W,F
+168,Wes Gibbins,HGAWM/10.jpg,B,M
+169,Red Reznikov,ONB/4.jpg,W,F
+170,Tess Ocean,O11/6.jpg,W,F
+171,Ethan Ryan MacManus,CAD/1.jpg,U,M
+172,Lucas Sinclair,ST/6.jpg,B,M
+173,Erica Sinclair,ST/13.jpg,B,F
+174,Blair Waldorf,GOG/2.jpg,W,F
+175,Chani,DUNE/6.jpg,W,F
+176,James Olsen,SG/4.jpg,B,M
+177,Henry Jennings,TA/3.jpg,W,M
+178,William H. 'Shakespeare' Hill,TIU/8.jpg,B,M
+179,Mazikeen,LU/5.jpg,W,F
+180,Lady Sybil Crawley,DA/2.jpg,W,F
+181,Jules Louden,CITW/3.jpg,W,F
+182,Will Byers,ST/11.jpg,W,M
+183,Phil Dunphy,MF/4.jpg,W,M
+184,Dr. Rene Belloq,RLA/3.jpg,W,M
+185,Brad Bellick,PB/6.jpg,W,M
+186,Marty McFly,BTF/1.jpg,W,M
+187,Frenchie,TB/9.jpg,W,M
+188,Izzie Stevens,GA/3.jpg,W,F
+189,Mark Watney,TM/1.jpg,W,M
+190,Nani Pelekai,LS/2.jpg,U,F
+191,Stanley Hudson,TO/8.jpg,B,M
+192,Olenna Tyrell,GOT/25.jpg,W,F
+193,Lady Mary Crawley,DA/6.jpg,W,F
+194,Kevin Keller,RD/5.jpg,W,M
+195,Moira Rose,SsC/2.jpg,W,F
+196,Andrea Sachs,DWP/2.jpg,W,F
+197,Drew Torres,DGI/8.jpg,W,M
+198,Thomas 'Herc' Hauk,TW/6.jpg,W,M
+199,Georgiana Darcy,PP/6.jpg,W,F
+200,Mother's Milk,TB/7.jpg,B,M
+201,Kitty Forman,T7S/7.jpg,W,F
+202,Abed Nadir,C/3.jpg,W,M
+203,Lord Voldemort,HP/12.jpg,U,M
+204,Charlie Swan,T/4.jpg,W,M
+205,Henry Spencer,PSY/5.jpg,W,M
+206,Robert Fischer,I/6.jpg,W,M
+207,Glenn Rhee,WD/6.jpg,A,M
+208,Nick Carraway,GG/2.jpg,W,M
+209,Jane Villanueva,JV/1.jpg,H,F
+210,Tommy Carcetti,TW/16.jpg,W,M
+211,Dembe Zuma,BLKL/5.jpg,B,M
+212,Princess Ariel,TLM/1.jpg,U,F
+213,Tom Shayes,DAM/3.jpg,W,M
+214,Countess Lidia Ivanovna,AK/10.jpg,W,F
+215,Sterling Archer,ARCH/1.jpg,U,F
+216,Diane Lockhart,TGW/3.jpg,W,F
+217,Andy Dufresne,SR/1.jpg,W,M
+218,Ygritte,GOT/26.jpg,W,F
+219,Kirk Gleason,GILG/9.jpg,W,M
+220,Nog,DS9/4.jpg,U,M
+221,Alexis Castle,CSTL/6.jpg,W,F
+222,Jim Burns,TF/3.jpg,W,M
+223,Lincoln Burrows,PB/1.jpg,W,M
+224,Brian Zeller,HNB/6.jpg,W,M
+225,Grace Florrick,TGW/6.jpg,W,F
+226,Jerry Seinfeld,SF/1.jpg,W,M
+227,Jacqueline White,UKS/4.jpg,W,F
+228,Toph Beifong,ALA/4.jpg,U,F
+229,Brittany Pierce,GLEE/10.jpg,W,F
+230,El Profesor,MONH/2.jpg,W,M
+231,Rick Sanchez,RM/1.jpg,U,M
+232,Marla Singer,FC/3.jpg,W,F
+233,Gamora,MCU/10.jpg,U,F
+234,Charlie Kelly,ASP/1.jpg,W,M
+235,Dale Cooper,TP/1.jpg,W,M
+236,Camille Saroyan,B/5.jpg,W,F
+237,Berta,THM/4.jpg,W,F
+238,Missy Armitage,GO/5.jpg,W,F
+239,Petra Solano,JV/3.jpg,W,F
+240,Raj Koothrappali,BBT/5.jpg,W,M
+241,Phil Coulson,AoS/1.jpg,W,M
+242,Wyldstyle,LEGO/4.jpg,U,F
+243,Hugo 'Hurley' Reyes,L/4.jpg,W,F
+244,Billy Hargrove,ST/14.jpg,W,M
+245,Wendy Byrde,O/2.jpg,W,F
+246,Regina Mills,OUT/1.jpg,H,F
+247,Dale Horvath,WD/5.jpg,U,M
+248,Faye Valentine,CBP/3.jpg,U,F
+249,Dinesh Chugtai,SV/5.jpg,W,M
+250,Eric Murphy,ENT/1.jpg,W,M
+251,Thomas J. Whitmore,ID/2.jpg,W,M
+252,Lagertha,VK/1.jpg,W,F
+253,Troy Barnes,C/4.jpg,B,M
+254,Laurel Castillo,HGAWM/9.jpg,H,F
+255,Miranda Priestly,DWP/1.jpg,W,F
+256,Ubbe Ragnarsson,VK/9.jpg,W,M
+257,Hermione Granger,HP/3.jpg,W,F
+258,Megatron,TRNF/5.jpg,U,U
+259,Mark Brendanawicz,PR/3.jpg,W,M
+260,Hilda Spellman,CAS/3.jpg,W,F
+261,Eddard Stark,GOT/12.jpg,W,M
+262,Dr. Shaun Murphy,TGD/1.jpg,W,M
+263,Bill Tench,MH/2.jpg,W,M
+264,C. J. Cregg,WW/6.jpg,W,F
+265,Clarke Griffin,T100/1.jpg,W,F
+266,Kim Ki-taek,P/1.jpg,A,M
+267,Macbeth,MCB/1.jpg,W,M
+268,Marcia Roy,SUC/5.jpg,W,F
+269,Chung-sook,P/6.jpg,A,F
+270,Dr. Abigail Griffin,T100/5.jpg,W,F
+271,Calvin,CH/1.jpg,U,M
+272,Jason Street,FNL/9.jpg,W,M
+273,Midge Pinciotti,T7S/9.jpg,W,F
+274,Lloyd,Y/9.jpg,W,M
+275,Ted Mullens,SsC/6.jpg,W,M
+276,Alice Cullen,T/7.jpg,W,F
+277,Chris Partlow,TW/18.jpg,B,M
+278,Johnny Rose,SsC/1.jpg,W,M
+279,Shirley Schmidt,BL/3.jpg,W,F
+280,Jin-Soo Kwon,L/8.jpg,A,M
+281,Lee 'Apollo' Adama,BSG/4.jpg,W,M
+282,Clay Davis,TW/25.jpg,B,M
+283,Melisandre,GOT/24.jpg,W,F
+284,Bob Belcher,BOBB/1.jpg,U,M
+285,Aunt Polly,PKB/3.jpg,W,F
+286,Tami Taylor,FNL/2.jpg,W,F
+287,Mufasa,LK/6.jpg,U,M
+288,Karl 'Helo' Agathon,BSG/10.jpg,W,M
+289,Eric Forman,T7S/1.jpg,W,M
+290,Brian Johnson,BC/4.jpg,W,M
+291,Pumbaa,LK/4.jpg,U,M
+292,Marshall Eriksen,HIMYM/2.jpg,W,M
+293,Cally Henderson,BSG/14.jpg,W,F
+294,F. Tony Scarapiducci,SPF/3.jpg,W,M
+295,Lana Lang,SMV/3.jpg,W,F
+296,Zoe Washburne,FS/5.jpg,B,F
+297,Castiel,SU/3.jpg,W,M
+298,Cece Parekh,NG/4.jpg,H,F
+299,Stu,HO/2.jpg,W,M
+300,Mrs. Bennet,PP/9.jpg,W,F
+301,Cogsworth,BATB/4.jpg,U,U
+302,Tyra Collette,FNL/7.jpg,W,F
+303,Victor Laszlo,CB/3.jpg,U,M
+304,Patrick Verona,TIHAY/2.jpg,W,M
+305,Mary Alice Young,DH/8.jpg,W,M
+306,Huck,SCDL/4.jpg,W,M
+307,Capt. Oliver Queenan,TDPT/5.jpg,W,M
+308,Batman,LEGO/5.jpg,U,M
+309,Jamie Dutton,Y/4.jpg,W,M
+310,Ivar Ragnarsson,VK/7.jpg,W,M
+311,Caitlin Snow,FL/3.jpg,W,F
+312,Ted Mosby,HIMYM/1.jpg,W,M
+313,Jack Traven,SPEED/1.jpg,U,M
+314,Sherlock Holmes,ELM/1.jpg,W,M
+315,Nux,MMFR/3.jpg,W,M
+316,Carmela Soprano,SOP/3.jpg,W,F
+317,Prudence Night,CAS/7.jpg,B,F
+318,Carrie Bradshaw,SC/1.jpg,W,F
+319,Michael Kelso,T7S/3.jpg,W,M
+320,Toby Ziegler,WW/4.jpg,W,M
+321,"George Bluth, Sr.",AD/8.jpg,W,M
+322,Kat Stratford,TIHAY/1.jpg,W,F
+323,Anthony DiNozzo,NCIS/2.jpg,W,M
+324,Rachel Menken,MM/10.jpg,W,F
+325,Sayid Jarrah,L/1.jpg,B,M
+326,Twilight Sparkle,MLP/2.jpg,U,U
+327,Dr. Ian Malcolm,JP/3.jpg,W,M
+328,Bellamy Blake,T100/2.jpg,W,M
+329,Cyril Figgis,ARCH/3.jpg,U,M
+330,Merle Dixon,WD/10.jpg,W,M
+331,Bellatrix Lestrange,HP/28.jpg,W,F
+332,Hobie Buchannon,BW/2.jpg,W,M
+333,Hoban Washburne,FS/6.jpg,W,M
+334,Will Gardner,TGW/5.jpg,W,M
+335,Glenn Sturgis,SS/5.jpg,W,M
+336,Donkey,SK/2.jpg,U,U
+337,Holden Ford,MH/1.jpg,W,M
+338,Samuel 'Longshot' Anders,BSG/15.jpg,W,M
+339,Angel Batista,D/6.jpg,W,M
+340,Britta Perry,C/2.jpg,W,F
+341,Eleanor Shellstrop,GP/1.jpg,W,F
+342,Gemma Teller Morrow,SA/2.jpg,W,F
+343,Mary Svevo,ESSM/3.jpg,W,F
+344,Professor Hubert J. Farnsworth,FUTR/4.jpg,U,M
+345,Dennis 'Cutty' Wise,TW/23.jpg,B,M
+346,Asher Millstone,HGAWM/5.jpg,W,M
+347,Oberyn Martell,GOT/29.jpg,W,M
+348,Judith of Northumbria,VK/10.jpg,W,F
+349,Jonah Ryan,V/5.jpg,W,M
+350,Jay Pritchett,MF/1.jpg,W,M
+351,Aaron Samuels,MG/7.jpg,W,M
+352,Elliot Reid,SCRUBS/2.jpg,W,F
+353,Benjamin Sisko,DS9/6.jpg,B,M
+354,Jesse Pinkman,BB/3.jpg,W,M
+355,Bree Van de Kamp,DH/3.jpg,W,F
+356,Sheriff of Nottingham,RH/6.jpg,U,U
+357,Piper Chapman,ONB/1.jpg,W,F
+358,Jonah Byrde,O/4.jpg,W,M
+359,Michael Scofield,PB/2.jpg,W,M
+360,Monica Gaztambide,MONH/7.jpg,W,F
+361,Zelena,OUT/9.jpg,W,F
+362,John Munch,SVU/2.jpg,W,M
+363,Cameron James,TIHAY/3.jpg,W,M
+364,Thomas Rainwater,Y/8.jpg,W,M
+365,Lady Jessica,DUNE/2.jpg,W,F
+366,Rowan Pope,SCDL/10.jpg,B,M
+367,Matthew Casey,CF/1.jpg,W,M
+368,Torvi,VK/4.jpg,W,F
+369,Michael Dawson,L/9.jpg,B,M
+370,Bonnie Bennett,VD/3.jpg,B,F
+371,Gavin Belson,SV/9.jpg,W,M
+372,Steve Harrington,ST/9.jpg,W,M
+373,Dr. Allison Cameron,H/6.jpg,W,F
+374,Lily Aldrin,HIMYM/5.jpg,H,F
+375,Roland 'Prez' Pryzbylewski,TW/10.jpg,W,M
+376,Zelda Spellman,CAS/10.jpg,W,F
+377,Kelly Kapoor,TO/13.jpg,U,F
+378,Beverly Katz,HNB/8.jpg,A,F
+379,Sid Phillips,TS/6.jpg,U,M
+380,Damon Salvatore,VD/2.jpg,W,M
+381,Bruce Banner,MCU/4.jpg,W,M
+382,Charlie Young,WW/7.jpg,B,M
+383,Pennsatucky Doggett,ONB/8.jpg,W,F
+384,Michael Gray,PKB/6.jpg,W,M
+385,John Abruzzi,PB/10.jpg,W,M
+386,Chris Traeger,PR/10.jpg,W,M
+387,Carlton Lassiter,PSY/3.jpg,W,M
+388,Elaine Benes,SF/3.jpg,W,F
+389,Hannah Kahnwald,DARK/4.jpg,W,F
+390,Destiny,HUS/1.jpg,U,F
+391,George Costanza,SF/2.jpg,W,M
+392,Shirley Bennett,C/6.jpg,B,F
+393,Dana Polk,CITW/1.jpg,W,F
+394,Mam&#xE1; Coco,COCO/5.jpg,U,U
+395,The Wizard of Oz,WO/2.jpg,W,M
+396,Allison Hargreeves,UA/4.jpg,U,F
+397,Diana Rayburn,BLL/4.jpg,W,F
+398,Tim Riggins,FNL/6.jpg,W,M
+399,Worf,TNG/5.jpg,U,M
