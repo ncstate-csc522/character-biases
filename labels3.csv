@@ -1,5 +1,5 @@
 ,characterName,imageFile,race,gender
-0,Emma Nelson,DGI/6.jpg,U,F
+0,Emma Nelson,DGI/6.jpg,W,F
 1,Frank Reynolds,ASP/5.jpg,W,M
 2,Caroline Forbes,VD/4.jpg,W,F
 3,Adam Sackler,G/5.jpg,N,M
@@ -32,7 +32,7 @@
 30,Mr. Potato Head,TS/3.jpg,U,M
 31,Jenna Maroney,R30/6.jpg,W,F
 32,Eve Polastri,KE/2.jpg,A,F
-33,Jessica Pearson,SUI/6.jpg,U,F
+33,Jessica Pearson,SUI/6.jpg,H,F
 34,Nicky Nichols,ONB/7.jpg,W,F
 35,Peter Burke,WC/2.jpg,W,M
 36,Henry Mills,OUT/3.jpg,W,M
@@ -47,7 +47,7 @@
 45,Jian-Yang,SV/10.jpg,A,M
 46,Greg Sanders,CSI/2.jpg,W,M
 47,David Mills,S7/1.jpg,W,M
-48,Hobbes,CH/2.jpg,U,U
+48,Hobbes,CH/2.jpg,U,M
 49,Elizabeth Burke,WC/4.jpg,W,F
 50,Goh Peik Lin,CRA/4.jpg,A,F
 51,Nathan Miller,T100/9.jpg,H,M
@@ -57,16 +57,16 @@
 55,Winn Schott,SG/6.jpg,W,M
 56,Summer Smith,RM/3.jpg,U,F
 57,Marsellus Wallace,PF/5.jpg,B,M
-58,Mia Toretto,FF/4.jpg,U,F
+58,Mia Toretto,FF/4.jpg,H,F
 59,Lau,DK/9.jpg,A,M
 60,Lex Luthor,SMV/4.jpg,W,M
-61,Nancy Thompson,NES/1.jpg,U,F
+61,Nancy Thompson,NES/1.jpg,W,F
 62,Linda Martin,LU/6.jpg,W,F
 63,Lucy Moran,TP/14.jpg,W,F
-64,Mystique,XM/4.jpg,U,F
+64,Mystique,XM/4.jpg,U,U
 65,Dan Espinoza,LU/3.jpg,W,M
 66,Molly Davidson,BKSM/1.jpg,W,F
-67,Nurse Mildred Ratched,OFOCN/2.jpg,U,F
+67,Nurse Mildred Ratched,OFOCN/2.jpg,W,F
 68,Amy Santiago,B99/4.jpg,W,F
 69,Margaret 'Hot Lips' Houlihan,MASH/2.jpg,W,F
 70,Emmett Cullen,T/8.jpg,W,M
@@ -82,12 +82,12 @@
 80,Colin Sullivan,TDPT/2.jpg,W,F
 81,Cheryl Tunt,ARCH/4.jpg,U,F
 82,Holden McCrea,CITW/5.jpg,H,M
-83,Denver,MONH/6.jpg,U,M
+83,Denver,MONH/6.jpg,H,M
 84,Audrey Horne,TP/6.jpg,W,F
 85,Mia Wallace,PF/3.jpg,W,F
 86,Odo,DS9/2.jpg,W,M
 87,Kasidy Yates,DS9/15.jpg,B,F
-88,Stan Marsh,SP/1.jpg,U,M
+88,Stan Marsh,SP/1.jpg,W,M
 89,Dr. Gregory House,H/1.jpg,W,M
 90,Nick Miller,NG/2.jpg,W,M
 91,David Phillips,CSI/6.jpg,W,M
@@ -110,7 +110,7 @@
 108,Jack Shephard,L/3.jpg,W,M
 109,Betty Cooper,RD/2.jpg,W,F
 110,Dennis Nedry,JP/6.jpg,W,M
-111,Rarity,MLP/3.jpg,U,U
+111,Rarity,MLP/3.jpg,U,F
 112,Fleur Delacour,HP/14.jpg,W,F
 113,Elliot Alderson,MR/1.jpg,W,M
 114,Debbie Gallagher,SHL/6.jpg,W,F
@@ -118,7 +118,7 @@
 116,Grace Van Pelt,MNT/5.jpg,W,F
 117,Anita 'Needy' Lesnicki,JB/2.jpg,W,F
 118,Annie January,TB/4.jpg,W,F
-119,The Tin Man,WO/4.jpg,U,U
+119,The Tin Man,WO/4.jpg,U,M
 120,Cary Agos,TGW/2.jpg,W,M
 121,Smash Williams,FNL/3.jpg,B,M
 122,Billy Butcher,TB/1.jpg,W,M
@@ -127,7 +127,7 @@
 125,Damian Leigh,MG/6.jpg,W,M
 126,Bruce Wayne,DK/1.jpg,W,M
 127,Thomas Barrow,DA/11.jpg,W,M
-128,Leo Fitz,AoS/5.jpg,U,M
+128,Leo Fitz,AoS/5.jpg,W,M
 129,Jadzia Dax,DS9/1.jpg,W,F
 130,Granny Lucas,OUT/10.jpg,W,F
 131,Josh Chan,CXG/3.jpg,A,M
@@ -153,7 +153,7 @@
 151,Meredith Grey,GA/1.jpg,W,F
 152,Wyatt Langmore,O/10.jpg,W,M
 153,Rubeus Hagrid,HP/4.jpg,W,M
-154,Kyle Broflovski,SP/2.jpg,U,F
+154,Kyle Broflovski,SP/2.jpg,U,M
 155,Amy Wong,FUTR/5.jpg,U,F
 156,Dr. Wendy Carr,MH/3.jpg,W,F
 157,Dominique DiPierro,MR/6.jpg,W,F
@@ -161,7 +161,7 @@
 159,Tom Wambsgans,SUC/8.jpg,W,M
 160,Barney Gumble,S/14.jpg,U,M
 161,Dr. Ellie Sattler,JP/2.jpg,W,F
-162,Joe Cruz ,CF/4.jpg,U,M
+162,Joe Cruz ,CF/4.jpg,H,M
 163,Dr. Neil Melendez,TGD/5.jpg,W,M
 164,Dr. Marcus Brody,RLA/6.jpg,W,M
 165,Principal Vernon,BC/6.jpg,W,M
@@ -214,7 +214,7 @@
 212,Princess Ariel,TLM/1.jpg,U,F
 213,Tom Shayes,DAM/3.jpg,W,M
 214,Countess Lidia Ivanovna,AK/10.jpg,W,F
-215,Sterling Archer,ARCH/1.jpg,U,F
+215,Sterling Archer,ARCH/1.jpg,U,M
 216,Diane Lockhart,TGW/3.jpg,W,F
 217,Andy Dufresne,SR/1.jpg,W,M
 218,Ygritte,GOT/26.jpg,W,F
@@ -241,13 +241,13 @@
 239,Petra Solano,JV/3.jpg,W,F
 240,Raj Koothrappali,BBT/5.jpg,W,M
 241,Phil Coulson,AoS/1.jpg,W,M
-242,Wyldstyle,LEGO/4.jpg,U,F
+242,Wyldstyle,LEGO/4.jpg,U,U
 243,Hugo 'Hurley' Reyes,L/4.jpg,W,F
 244,Billy Hargrove,ST/14.jpg,W,M
 245,Wendy Byrde,O/2.jpg,W,F
 246,Regina Mills,OUT/1.jpg,H,F
-247,Dale Horvath,WD/5.jpg,U,M
-248,Faye Valentine,CBP/3.jpg,U,F
+247,Dale Horvath,WD/5.jpg,W,M
+248,Faye Valentine,CBP/3.jpg,U,U
 249,Dinesh Chugtai,SV/5.jpg,W,M
 250,Eric Murphy,ENT/1.jpg,W,M
 251,Thomas J. Whitmore,ID/2.jpg,W,M
@@ -302,7 +302,7 @@
 300,Mrs. Bennet,PP/9.jpg,W,F
 301,Cogsworth,BATB/4.jpg,U,U
 302,Tyra Collette,FNL/7.jpg,W,F
-303,Victor Laszlo,CB/3.jpg,U,M
+303,Victor Laszlo,CB/3.jpg,W,M
 304,Patrick Verona,TIHAY/2.jpg,W,M
 305,Mary Alice Young,DH/8.jpg,W,M
 306,Huck,SCDL/4.jpg,W,M
@@ -312,7 +312,7 @@
 310,Ivar Ragnarsson,VK/7.jpg,W,M
 311,Caitlin Snow,FL/3.jpg,W,F
 312,Ted Mosby,HIMYM/1.jpg,W,M
-313,Jack Traven,SPEED/1.jpg,U,M
+313,Jack Traven,SPEED/1.jpg,W,M
 314,Sherlock Holmes,ELM/1.jpg,W,M
 315,Nux,MMFR/3.jpg,W,M
 316,Carmela Soprano,SOP/3.jpg,W,F
@@ -325,7 +325,7 @@
 323,Anthony DiNozzo,NCIS/2.jpg,W,M
 324,Rachel Menken,MM/10.jpg,W,F
 325,Sayid Jarrah,L/1.jpg,B,M
-326,Twilight Sparkle,MLP/2.jpg,U,U
+326,Twilight Sparkle,MLP/2.jpg,U,F
 327,Dr. Ian Malcolm,JP/3.jpg,W,M
 328,Bellamy Blake,T100/2.jpg,W,M
 329,Cyril Figgis,ARCH/3.jpg,U,M
@@ -335,7 +335,7 @@
 333,Hoban Washburne,FS/6.jpg,W,M
 334,Will Gardner,TGW/5.jpg,W,M
 335,Glenn Sturgis,SS/5.jpg,W,M
-336,Donkey,SK/2.jpg,U,U
+336,Donkey,SK/2.jpg,U,M
 337,Holden Ford,MH/1.jpg,W,M
 338,Samuel 'Longshot' Anders,BSG/15.jpg,W,M
 339,Angel Batista,D/6.jpg,W,M
@@ -355,7 +355,7 @@
 353,Benjamin Sisko,DS9/6.jpg,B,M
 354,Jesse Pinkman,BB/3.jpg,W,M
 355,Bree Van de Kamp,DH/3.jpg,W,F
-356,Sheriff of Nottingham,RH/6.jpg,U,U
+356,Sheriff of Nottingham,RH/6.jpg,U,M
 357,Piper Chapman,ONB/1.jpg,W,F
 358,Jonah Byrde,O/4.jpg,W,M
 359,Michael Scofield,PB/2.jpg,W,M
@@ -376,7 +376,7 @@
 374,Lily Aldrin,HIMYM/5.jpg,H,F
 375,Roland 'Prez' Pryzbylewski,TW/10.jpg,W,M
 376,Zelda Spellman,CAS/10.jpg,W,F
-377,Kelly Kapoor,TO/13.jpg,U,F
+377,Kelly Kapoor,TO/13.jpg,I,F
 378,Beverly Katz,HNB/8.jpg,A,F
 379,Sid Phillips,TS/6.jpg,U,M
 380,Damon Salvatore,VD/2.jpg,W,M
@@ -389,13 +389,13 @@
 387,Carlton Lassiter,PSY/3.jpg,W,M
 388,Elaine Benes,SF/3.jpg,W,F
 389,Hannah Kahnwald,DARK/4.jpg,W,F
-390,Destiny,HUS/1.jpg,U,F
+390,Destiny,HUS/1.jpg,H,F
 391,George Costanza,SF/2.jpg,W,M
 392,Shirley Bennett,C/6.jpg,B,F
 393,Dana Polk,CITW/1.jpg,W,F
-394,Mam&#xE1; Coco,COCO/5.jpg,U,U
+394,Mam&#xE1; Coco,COCO/5.jpg,U,F
 395,The Wizard of Oz,WO/2.jpg,W,M
-396,Allison Hargreeves,UA/4.jpg,U,F
+396,Allison Hargreeves,UA/4.jpg,B,F
 397,Diana Rayburn,BLL/4.jpg,W,F
 398,Tim Riggins,FNL/6.jpg,W,M
 399,Worf,TNG/5.jpg,U,M

@@ -163,7 +163,7 @@
 161,Elena Gilbert,VD/6.jpg,W,F
 162,Worf,DS9/3.jpg,U,M
 163,Gollum,LOTR/10.jpg,U,M
-164,Maxwell Klinger,MASH/3.jpg,U,M
+164,Maxwell Klinger,MASH/3.jpg,W,M
 165,John Galt,AS/4.jpg,W,M
 166,Bernadette Rostenkowski,BBT/7.jpg,W,F
 167,Gene Belcher,BOBB/4.jpg,U,M
@@ -231,7 +231,7 @@
 229,Serena van der Woodsen,GOG/1.jpg,W,F
 230,Theodore Laurence,LW/6.jpg,W,M
 231,Dolores Umbridge,HP/23.jpg,W,F
-232,Applejack,MLP/1.jpg,U,U
+232,Applejack,MLP/1.jpg,U,F
 233,Richard Hendricks,SV/1.jpg,W,M
 234,Marge Thompson,NES/5.jpg,W,F
 235,Clementine Kruczynski,ESSM/2.jpg,W,F
@@ -250,7 +250,7 @@
 248,Andrew Clark,BC/3.jpg,W,M
 249,Cal Hockley,TT/3.jpg,W,M
 250,Doc Holliday,WE/2.jpg,W,M
-251,Princess Celestia,MLP/6.jpg,U,U
+251,Princess Celestia,MLP/6.jpg,U,F
 252,Perry Cox,SCRUBS/5.jpg,W,M
 253,Jeff Portnoy,TRT/2.jpg,W,M
 254,Mammy,GWW/6.jpg,B,F
@@ -286,13 +286,13 @@
 284,Shae,GOT/28.jpg,W,F
 285,Colby,Y/10.jpg,B,M
 286,Benjamin 'Hawkeye' Pierce,MASH/1.jpg,W,M
-287,Mushu,MU/2.jpg,U,U
+287,Mushu,MU/2.jpg,U,M
 288,Eleven,ST/4.jpg,W,M
 289,Malory Archer,ARCH/2.jpg,W,F
 290,Paulie 'Walnuts' Gualtieri,SOP/7.jpg,W,M
 291,Professor Oak,PK/4.jpg,U,M
 292,Lieutenant Schrank,WSS/5.jpg,W,M
-293,the Alien,A/5.jpg,U,U
+293,the Alien,A/5.jpg,U,M
 294,John Rayburn,BLL/1.jpg,W,M
 295,April Ludgate,PR/6.jpg,W,F
 296,Daenerys Targaryen,GOT/3.jpg,W,F
@@ -374,7 +374,7 @@
 372,Marion Ravenwood,RLA/2.jpg,W,F
 373,Ash Ketchum,PK/1.jpg,U,M
 374,David Levinson,ID/3.jpg,W,M
-375,Kif Kroker,FUTR/9.jpg,U,U
+375,Kif Kroker,FUTR/9.jpg,U,M
 376,Nancy Wheeler,ST/7.jpg,W,F
 377,Kara 'Starbuck' Thrace,BSG/3.jpg,W,F
 378,Stitch,LS/6.jpg,U,M
